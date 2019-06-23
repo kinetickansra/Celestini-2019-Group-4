@@ -1,0 +1,327 @@
+audiofile,label
+conv35.wav,Conversations
+conv17.wav,Conversations
+conv10.wav,Conversations
+conv11.wav,Conversations
+conv44.wav,Conversations
+conv38.wav,Conversations
+conv28.wav,Conversations
+conv37.wav,Conversations
+conv49.wav,Conversations
+conv12.wav,Conversations
+conv48.wav,Conversations
+conv42.wav,Conversations
+conv47.wav,Conversations
+conv54.wav,Conversations
+conv46.wav,Conversations
+conv56.wav,Conversations
+conv23.wav,Conversations
+conv6.wav,Conversations
+conv52.wav,Conversations
+conv27.wav,Conversations
+conv51.wav,Conversations
+conv8.wav,Conversations
+conv53.wav,Conversations
+conv14.wav,Conversations
+conv29.wav,Conversations
+conv13.wav,Conversations
+conv50.wav,Conversations
+conv4.wav,Conversations
+conv2.wav,Conversations
+conv31.wav,Conversations
+conv39.wav,Conversations
+conv18.wav,Conversations
+conv3.wav,Conversations
+conv43.wav,Conversations
+conv20.wav,Conversations
+conv45.wav,Conversations
+conv5.wav,Conversations
+conv24.wav,Conversations
+conv25.wav,Conversations
+conv36.wav,Conversations
+conv41.wav,Conversations
+conv1.wav,Conversations
+conv33.wav,Conversations
+conv21.wav,Conversations
+conv40.wav,Conversations
+conv26.wav,Conversations
+conv22.wav,Conversations
+conv34.wav,Conversations
+conv9.wav,Conversations
+conv19.wav,Conversations
+conv55.wav,Conversations
+conv16.wav,Conversations
+conv32.wav,Conversations
+conv15.wav,Conversations
+conv30.wav,Conversations
+conv7.wav,Conversations
+gather52.wav,Gathering
+gather9.wav,Gathering
+gather37.wav,Gathering
+gather26.wav,Gathering
+gather12.wav,Gathering
+gather3.wav,Gathering
+gather35.wav,Gathering
+gather13.wav,Gathering
+gather5.wav,Gathering
+gather32.wav,Gathering
+gather14.wav,Gathering
+gather7.wav,Gathering
+gather28.wav,Gathering
+gather22.wav,Gathering
+gather27.wav,Gathering
+gather8.wav,Gathering
+gather23.wav,Gathering
+gather6.wav,Gathering
+gather19.wav,Gathering
+gather18.wav,Gathering
+gather21.wav,Gathering
+gather39.wav,Gathering
+gather15.wav,Gathering
+gather46.wav,Gathering
+gather43.wav,Gathering
+gather33.wav,Gathering
+gather31.wav,Gathering
+gather16.wav,Gathering
+gather30.wav,Gathering
+gather24.wav,Gathering
+gather10.wav,Gathering
+gather45.wav,Gathering
+gather40.wav,Gathering
+gather48.wav,Gathering
+gather4.wav,Gathering
+gather47.wav,Gathering
+gather41.wav,Gathering
+gather20.wav,Gathering
+gather29.wav,Gathering
+gather42.wav,Gathering
+gather34.wav,Gathering
+gather2.wav,Gathering
+gather50.wav,Gathering
+gather49.wav,Gathering
+gather53.wav,Gathering
+gather44.wav,Gathering
+gather38.wav,Gathering
+gather25.wav,Gathering
+gather51.wav,Gathering
+gather11.wav,Gathering
+gather17.wav,Gathering
+gather36.wav,Gathering
+gather1.wav,Gathering
+multi36.wav,Multimedia
+multi29.wav,Multimedia
+multi37.wav,Multimedia
+multi26.wav,Multimedia
+multi5.wav,Multimedia
+multi10.wav,Multimedia
+multi20.wav,Multimedia
+multi39.wav,Multimedia
+multi14.wav,Multimedia
+multi44.wav,Multimedia
+multi31.wav,Multimedia
+multi49.wav,Multimedia
+multi25.wav,Multimedia
+multi51.wav,Multimedia
+multi50.wav,Multimedia
+multi9.wav,Multimedia
+multi46.wav,Multimedia
+multi17.wav,Multimedia
+multi52.wav,Multimedia
+multi42.wav,Multimedia
+multi34.wav,Multimedia
+multi40.wav,Multimedia
+multi18.wav,Multimedia
+multi23.wav,Multimedia
+multi38.wav,Multimedia
+multi32.wav,Multimedia
+multi1.wav,Multimedia
+multi13.wav,Multimedia
+multi30.wav,Multimedia
+multi2.wav,Multimedia
+multi6.wav,Multimedia
+multi3.wav,Multimedia
+multi55.wav,Multimedia
+multi4.wav,Multimedia
+multi19.wav,Multimedia
+multi24.wav,Multimedia
+multi27.wav,Multimedia
+multi28.wav,Multimedia
+multi47.wav,Multimedia
+multi35.wav,Multimedia
+multi12.wav,Multimedia
+multi53.wav,Multimedia
+multi11.wav,Multimedia
+multi45.wav,Multimedia
+multi33.wav,Multimedia
+multi41.wav,Multimedia
+multi8.wav,Multimedia
+multi7.wav,Multimedia
+multi48.wav,Multimedia
+multi21.wav,Multimedia
+multi22.wav,Multimedia
+multi54.wav,Multimedia
+multi43.wav,Multimedia
+multi16.wav,Multimedia
+multi15.wav,Multimedia
+outdoors17.wav,Outdoors
+outdoors24.wav,Outdoors
+outdoors34.wav,Outdoors
+outdoors7.wav,Outdoors
+outdoors38.wav,Outdoors
+outdoors39.wav,Outdoors
+outdoors16.wav,Outdoors
+outdoors47.wav,Outdoors
+outdoors52.wav,Outdoors
+outdoors22.wav,Outdoors
+outdoors27.wav,Outdoors
+outdoors46.wav,Outdoors
+outdoors50.wav,Outdoors
+outdoors8.wav,Outdoors
+outdoors14.wav,Outdoors
+outdoors49.wav,Outdoors
+outdoors41.wav,Outdoors
+outdoors11.wav,Outdoors
+outdoors10.wav,Outdoors
+outdoors19.wav,Outdoors
+outdoors33.wav,Outdoors
+outdoors35.wav,Outdoors
+outdoors26.wav,Outdoors
+outdoors18.wav,Outdoors
+outdoors51.wav,Outdoors
+outdoors45.wav,Outdoors
+outdoors37.wav,Outdoors
+outdoors57.wav,Outdoors
+outdoors21.wav,Outdoors
+outdoors55.wav,Outdoors
+outdoors3.wav,Outdoors
+outdoors15.wav,Outdoors
+outdoors9.wav,Outdoors
+outdoors2.wav,Outdoors
+outdoors12.wav,Outdoors
+outdoors4.wav,Outdoors
+outdoors20.wav,Outdoors
+outdoors23.wav,Outdoors
+outdoors30.wav,Outdoors
+outdoors56.wav,Outdoors
+outdoors28.wav,Outdoors
+outdoors42.wav,Outdoors
+outdoors6.wav,Outdoors
+outdoors5.wav,Outdoors
+outdoors48.wav,Outdoors
+outdoors54.wav,Outdoors
+outdoors36.wav,Outdoors
+outdoors13.wav,Outdoors
+outdoors25.wav,Outdoors
+outdoors32.wav,Outdoors
+outdoors1.wav,Outdoors
+outdoors29.wav,Outdoors
+outdoors53.wav,Outdoors
+outdoors40.wav,Outdoors
+outdoors43.wav,Outdoors
+outdoors44.wav,Outdoors
+outdoors31.wav,Outdoors
+scream8.wav,Scream
+scream38.wav,Scream
+scream39.wav,Scream
+scream22.wav,Scream
+scream27.wav,Scream
+ss26.wav,Scream
+scream25.wav,Scream
+scream45.wav,Scream
+scream18.wav,Scream
+scream20.wav,Scream
+scream.wav,Scream
+scream9.wav,Scream
+scream47.wav,Scream
+scream33.wav,Scream
+scream23.wav,Scream
+scream34.wav,Scream
+to low.wav,Scream
+scream49.wav,Scream
+breath.wav,Scream
+scream51.wav,Scream
+scream19.wav,Scream
+scream43.wav,Scream
+fear1.wav,Scream
+to low1.wav,Scream
+scream48.wav,Scream
+scream5.wav,Scream
+scream4.wav,Scream
+distress.wav,Scream
+scream21.wav,Scream
+scream40.wav,Scream
+scream2.wav,Scream
+scream44.wav,Scream
+sobb_big.wav,Scream
+scream31.wav,Scream
+scream13.wav,Scream
+scream15.wav,Scream
+sobb2.wav,Scream
+scream12.wav,Scream
+scream50.wav,Scream
+scream32.wav,Scream
+scream30.wav,Scream
+sobb1.wav,Scream
+scream35.wav,Scream
+scream29.wav,Scream
+scream41.wav,Scream
+sobb4.wav,Scream
+scream14.wav,Scream
+scream46.wav,Scream
+scream42.wav,Scream
+scream37.wav,Scream
+scream3.wav,Scream
+scream7.wav,Scream
+scream28.wav,Scream
+distress2.wav,Scream
+cry1.wav,Scream
+dss15.wav,Scream
+scream6.wav,Scream
+scream36.wav,Scream
+scream16.wav,Scream
+scream17.wav,Scream
+sobb3.wav,Scream
+scream26.wav,Scream
+scream24.wav,Scream
+Cry (28).wav,SobbandCry
+Cry (26).wav,SobbandCry
+Cry (15).wav,SobbandCry
+Cry (18).wav,SobbandCry
+cry2.wav,SobbandCry
+Cry (9).wav,SobbandCry
+Cry (32).wav,SobbandCry
+Cry (3).wav,SobbandCry
+Cry (39).wav,SobbandCry
+Cry (12).wav,SobbandCry
+Cry (20).wav,SobbandCry
+cry4.wav,SobbandCry
+cry3.wav,SobbandCry
+Cry (22).wav,SobbandCry
+Cry (6).wav,SobbandCry
+Cry (38).wav,SobbandCry
+Cry (27).wav,SobbandCry
+Cry (25).wav,SobbandCry
+Cry (29).wav,SobbandCry
+Cry (2).wav,SobbandCry
+Cry (19).wav,SobbandCry
+Cry (30).wav,SobbandCry
+Cry (33).wav,SobbandCry
+Cry (13).wav,SobbandCry
+Cry (10).wav,SobbandCry
+Cry (1).wav,SobbandCry
+Cry (16).wav,SobbandCry
+Cry (11).wav,SobbandCry
+Cry (5).wav,SobbandCry
+Cry (23).wav,SobbandCry
+Cry (24).wav,SobbandCry
+Cry (34).wav,SobbandCry
+Cry (21).wav,SobbandCry
+Cry (37).wav,SobbandCry
+Cry (36).wav,SobbandCry
+Cry (7).wav,SobbandCry
+Cry (14).wav,SobbandCry
+Cry (4).wav,SobbandCry
+Cry (31).wav,SobbandCry
+Cry (8).wav,SobbandCry
+Cry (35).wav,SobbandCry
+Cry (17).wav,SobbandCry
