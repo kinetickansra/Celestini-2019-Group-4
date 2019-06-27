@@ -21,3 +21,22 @@ Contains code for conversion of mp3 format to wav format of audios.
 -**scrap.py**  
 Contains code for scrapping audios from Youtube.
 
+-**Audio cleaning 6 labels.ipynb**  
+Contains code for cleaning audio files in data folder consiting of 6 labels - **Conversations, Stress, Human-Gathering,
+Multimedia, Outdoors, Sobb and Cry**.
+
+-**Model Training Deep Learning 6 labels.ipynb**  
+Contains code for model training on clean dataset available in DataClean folder.  
+Two models are trained:   
+1. RNN
+2. CNN
+
+-**Spectrogram + KNN + SVM.ipynb**    
+Contains code for plotting the Spectrogram and mel Spectrogram.   
+Feature extraction using pyAudioAnalysis and training on Two models:  
+1. SVM
+2. KNN
+
+-**audio.csv**  
+Contains the wavefiles along with their labels.
+
