@@ -40,3 +40,11 @@ Feature extraction using pyAudioAnalysis and training on Two models:
 -**audio.csv**  
 Contains the wavefiles along with their labels.
 
+
+-**All5Models.ipynb**
+Contains Feature extraction using pyAudioAnalysis and training on Five models:    
+1. SVM
+2. KNN
+3. Random Forest
+4. Gradient Boosting
+5. Extra Trees
