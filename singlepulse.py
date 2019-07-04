@@ -15,7 +15,7 @@ def mfccExtract(in_path):
 	src = in_path
 	sr = 22050
 	audio_data = lr.load(in_path, sr=22050)[0]
-	mfcc_feature_list = lr.feature.mfcc(y=audio_data,sr=sr) # create mfcc features
+	mfcc_feature_list = lr.feature.mfcc(y=audio_data,sr=sr, n_mfcc=13) # create mfcc features
 	print(mfcc_feature_list)
 	return mfcc_feature_list
 
